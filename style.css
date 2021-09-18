@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
 
 body{
-  font-family: 'Gluten','Gothic A1', cursive;
-background-color: ##50630d;
-margin: 0;
+ font-family: 'Gluten','Gothic A1', cursive;
+ background-color: ##50630d;
+ margin: 0;
 }
 *{
   box-sizing: border-box;
@@ -14,7 +14,7 @@ h1{
 
 }
 td {
-  border: 2px solid;
+  border: 1px solid;
   padding: 0px;
   border-width: 5px;
 }
