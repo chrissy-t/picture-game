@@ -2,12 +2,10 @@
 
 body{
  font-family: 'Gluten','Gothic A1', cursive;
- background: 
+ background:
  margin: 0;
 }
-*{
-  box-sizing: border-box;
-}
+
 h1{
   color: #8E1A01;
   text-align: center;
@@ -21,4 +19,93 @@ td {
   padding: 0px;
   border-width: 5px;
 }
-.game-container
+
+#cell1{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+
+}
+#cell1:hover{
+  background-image: url("images/pig.png");
+}
+
+#cell2{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell2:hover{
+  background-image: url("images/rabbit.png");
+}
+
+#cell3{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell3:hover{
+  background-image: url("images/angry-birdboy.png");
+}
+
+#cell4{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell4:hover{
+  background-image: url("images/boat.png");
+}
+
+#cell5{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell5:hover{
+  background-image: url("images/boat.png");
+}
+
+#cell6{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell6:hover{
+  background-image: url("images/glow-eyes.png");
+}
+
+#cell7{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell7:hover{
+  background-image: url("images/rabbit.png");
+}
+
+#cell8{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell8:hover{
+  background-image: url("images/dead-bird.png");
+}
+
+#cell9{
+  height: 200px;
+  width: 300px;
+  background-image: url("images/poster.jpg");
+}
+
+#cell9:hover{
+  background-image: url("images/glow-eyes.png");
+}
