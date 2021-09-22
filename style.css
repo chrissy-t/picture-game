@@ -2,7 +2,7 @@
 
 body{
  font-family: 'Gluten','Gothic A1', cursive;
- background: radial-gradient()
+ background: 
  margin: 0;
 }
 *{
@@ -21,3 +21,4 @@ td {
   padding: 0px;
   border-width: 5px;
 }
+.game-container
