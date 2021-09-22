@@ -130,3 +130,8 @@ td {
   background-image: url("images/glow-eyes.png");
   background-size: cover;
 }
+#form{
+  background-color: #ffffff;
+  padding:5px;
+  margin: 30px;
+}
