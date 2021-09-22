@@ -2,12 +2,12 @@
 
 body{
  font-family: 'Gluten','Gothic A1', cursive;
- background:#0d0f0f;
+ background-image: url("images/background.png");
  margin: 0;
 }
 
 h1{
-  color: #8E1A01;
+  color: #100e0e;
   text-align: center;
   font-size: 5em;
 }
