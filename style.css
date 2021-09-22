@@ -18,94 +18,114 @@ td {
   border: 1px solid;
   padding: 0px;
   border-width: 5px;
+
 }
+
 
 #cell1{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size:cover;
 
 }
 #cell1:hover{
   background-image: url("images/pig.png");
+  background-size: cover;
 }
 
 #cell2{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell2:hover{
   background-image: url("images/rabbit.png");
+  background-size: cover;
 }
 
 #cell3{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell3:hover{
   background-image: url("images/angry-birdboy.png");
+  background-size: cover;
 }
 
 #cell4{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell4:hover{
   background-image: url("images/boat.png");
+  background-size: cover;
 }
 
 #cell5{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell5:hover{
   background-image: url("images/boat.png");
+  background-size: cover;
 }
 
 #cell6{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell6:hover{
   background-image: url("images/glow-eyes.png");
+  background-size: cover;
 }
 
 #cell7{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell7:hover{
   background-image: url("images/rabbit.png");
+  background-size: cover;
 }
 
 #cell8{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell8:hover{
   background-image: url("images/dead-bird.png");
+  background-size: cover;
 }
 
 #cell9{
   height: 200px;
   width: 300px;
   background-image: url("images/poster.jpg");
+  background-size: cover;
 }
 
 #cell9:hover{
   background-image: url("images/glow-eyes.png");
+  background-size: cover;
 }
