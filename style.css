@@ -136,7 +136,7 @@ td {
   margin: 30px;
 }
 
-a {
+a:hover{
   text-decoration: underline;
   color: #100e0e;
 }
